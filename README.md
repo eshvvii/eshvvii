@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eshvvii
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Python
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently working at DYM Labs Delhi
 - 📫 How to reach me - eshvisahu24@gmail.com
 
 <!---
